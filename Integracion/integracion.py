@@ -167,7 +167,7 @@ persona1.set_nombre("Juan")
 persona1.set_edad(25)
 persona1.set_dni("123456789")
 persona1.mostrar()
-print("Es mayor de edad:", persona1.es_mayor_de_edad(),"\n\n")
+print("Es mayor de edad:", persona1.es_mayor_de_edad(),"\n\n\n")
 
 # Ejercicio 7- Crea una clase llamada Cuenta que tendrá los siguientes atributos: 
 # titular (que es una persona) y cantidad (puede tener decimales). 
